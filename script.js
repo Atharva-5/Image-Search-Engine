@@ -1,4 +1,4 @@
-const accesskey = "KNo83XX28xQkGsyZ_EU_pD5lIiRaCPPbBeZi5EP1KGo";
+const accesskey = "Key"; // Add your accessKey here from unsplash
 const searchForm = document.getElementById("search");
 const searchBox = document.getElementById("searchbox");
 const searchResult = document.getElementById("searchResult");
